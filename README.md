@@ -7,23 +7,30 @@ The fuel compositions and the desired charactarstics are fed to the integerated 
 
 Please refer to the paper for a much more detailed description of the methodology.
 
-
 ## Overview of files
 
-data/
-set.csv: complete dataset used for the paper
-fuel_properties: fuel properties used to convert the inputted fuel composition to its chemical characteristics
+#### `data/`
+* `set_I.csv`: 
+* `set_II.csv`: 
+* `set_III.csv`: 
+* `set_IIII.csv`: 
+* `fuel_properties.csv`: fuel properties used to convert the inputted fuel composition to its chemical characteristics
 
-models/: ron & mon models developed using ANN.
+#### `models/`: 
+* `ron/ron_model.h5`: ANN model for the prediction of Rsearch Octane Number (RON) in [Predicting Octane Number Using Nuclear Magnetic Resonance Spectroscopy and Artificial Neural Networks](https://pubs.acs.org/doi/abs/10.1021/acs.energyfuels.8b00556)
+* `mon/mon_model.h5`: ANN model for the prediction of Motor Octane Number (MON) developed in the same work as above.
 
-results/: csv files containing the results.
+#### `results/`
+* `results_I.csv`:
+* `results_II.csv`:
+* `results_III.csv`:
+* `results_IIII.csv`:
 
-scripts/
-GeneticAlgorithm.py: contains the script for both GA and the polygonal algorithms. The script creates multiple recipes and select the optimum fuel that meets the desired criteria
-getComposition.py: is used to present the compositions results.
-model.py: is used to read the model .h5 files
-MON_RON.py: it is used to read the input .csv files and operate as the center of the integrated structure. 
-
+#### `scripts/`
+* `GeneticAlgorithm.py`: contains the script for both GA and the polygonal algorithms. The script creates multiple recipes and select the optimum fuel that meets the desired criteria
+* `MON_RON.py`: it is used to read the input .csv files and operate as the center of the integrated structure. 
+* `Model.py`: is used to read the model .h5 files
+* `getComposition.py`: is used to present the compositions results.
 
 ## Authorship
 
@@ -37,10 +44,11 @@ The authors would like to acknowledge the support received from the Interdiscipl
 
 
 ## BibTex
-
+```
 @article{article,
   author  = {Faisal Alboqami, Vincent C.O. van Oudenhoven, Usama Ahmed, Umer Zahid, Abdul-Hamid Emwas, S.Mani Sarathy, Abdul Gani Abdul Jameel}, 
   title   = { A Methodology for Designing Octane Number of Fuels Using Genetic Algorithms and Artificial Neural Networks},
   year    = 2022
 }
+```
 
