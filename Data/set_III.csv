@@ -1,0 +1,49 @@
+﻿Name,n-N,C_1,n-P,C_6,iso-P,C_2,C_5,C_4,C_3,FACE A gasoline,FACE C gasoline,FACE F gasoline,FACE G gasoline,FACE I gasoline,FACE J gasoline,C_7,RON,MON
+n-Pentane+10,,,n-Pentane,,,,,,,,,,,,,Ethanol,72,66
+n-Pentane+25,,,n-Pentane,,,,,,,,,,,,,Ethanol,83.2,78.2
+n-Pentane+40,,,n-Pentane,,,,,,,,,,,,,Ethanol,93.6,86
+n-Pentane+60,,,n-Pentane,,,,,,,,,,,,,Ethanol,103.4,92.8
+iso-Pentane+10,,,,,iso-Pentane,,,,,,,,,,,Ethanol,95.5,91
+iso-Pentane+25,,,,,iso-Pentane,,,,,,,,,,,Ethanol,100,92
+iso-Pentane+40,,,,,iso-Pentane,,,,,,,,,,,Ethanol,102.4,92.6
+iso-Pentane+60,,,,,iso-Pentane,,,,,,,,,,,Ethanol,105.5,92.7
+FACE A #1,,n-Heptane,n-Pentane,1-Hexene,iso-Pentane,iso-Octane,Cyclopentane,"1,2,4-Trimethylbenzene",Toluene,,,,,,,,83.6,83
+FACE C #1,,n-Heptane,n-Pentane,1-Hexene,iso-Pentane,iso-Octane,Cyclopentane,"1,2,4-Trimethylbenzene",Toluene,,,,,,,,84.4,83
+FACE F #1,,n-Heptane,n-Pentane,1-Hexene,iso-Pentane,iso-Octane,Cyclopentane,"1,2,4-Trimethylbenzene",Toluene,,,,,,,,94.2,87.4
+FACE G #1,,n-Heptane,n-Pentane,1-Hexene,iso-Pentane,iso-Octane,Cyclopentane,"1,2,4-Trimethylbenzene",Toluene,,,,,,,,96.4,84.9
+FACE I #1,,n-Heptane,n-Pentane,1-Hexene,iso-Pentane,iso-Octane,Cyclopentane,"1,2,4-Trimethylbenzene",Toluene,,,,,,,,69.5,69
+FACE J #1,,n-Heptane,n-Pentane,1-Hexene,iso-Pentane,,Cyclopentane,,Toluene,,,,,,,,71.8,66.9
+FACE A #2,,n-Heptane,n-Pentane,1-Hexene,iso-Pentane,iso-Octane,Cyclopentane,"1,2,4-Trimethylbenzene",Toluene,,,,,,,,88,89.1
+FACE C #2,,n-Heptane,n-Pentane,1-Hexene,iso-Pentane,iso-Octane,Cyclopentane,"1,2,4-Trimethylbenzene",Toluene,,,,,,,,84.5,82.9
+FACE F #2,,n-Heptane,n-Pentane,1-Hexene,iso-Pentane,iso-Octane,Cyclopentane,"1,2,4-Trimethylbenzene",Toluene,,,,,,,,92.7,77.1
+FACE G #2,,n-Heptane,n-Pentane,1-Hexene,iso-Pentane,iso-Octane,Cyclopentane,"1,2,4-Trimethylbenzene",Toluene,,,,,,,,96.9,78.7
+FACE I #2,,n-Heptane,n-Pentane,1-Hexene,iso-Pentane,iso-Octane,Cyclopentane,"1,2,4-Trimethylbenzene",Toluene,,,,,,,,79.2,72.3
+FACE J #2,,n-Heptane,n-Pentane,1-Hexene,iso-Pentane,iso-Octane,Cyclopentane,"1,2,4-Trimethylbenzene",Toluene,,,,,,,,76.3,75.8
+Binary #1,n-Nonane,,n-Pentane,,,,,,,,,,,,,,36.1,37.1
+Binary #2,n-Nonane,,n-Pentane,,,,,,,,,,,,,,11.3,11.9
+Binary #3,n-Nonane,,,,,iso-Octane,,,,,,,,,,,64.7,64.2
+Binary #4,n-Nonane,,,,,iso-Octane,,,,,,,,,,,28.6,28
+Binary #5,,,n-Pentane,,iso-Pentane,,,,,,,,,,,,89.4,89.5
+Binary #6,,,n-Pentane,,,iso-Octane,,,,,,,,,,,79.3,79.3
+Binary #7,,,n-Pentane,,,iso-Octane,,,,,,,,,,,69.3,69.2
+Binary #8,,,,,iso-Pentane,iso-Octane,,,,,,,,,,,96.6,97.2
+Binary #9,,,,,iso-Pentane,iso-Octane,,,,,,,,,,,93.4,94.6
+Binary #10,,n-Heptane,n-Pentane,,,,,,,,,,,,,,48.6,47.9
+Binary #11,,n-Heptane,n-Pentane,,,,,,,,,,,,,,34.2,32.6
+Binary #12,,n-Heptane,n-Pentane,,,,,,,,,,,,,,18.7,17.7
+Binary #13,,n-Heptane,,,,iso-Octane,,,,,,,,,,,75,75
+Binary #14,,n-Heptane,,,,iso-Octane,,,,,,,,,,,50,50
+Binary #15,,n-Heptane,,,,iso-Octane,,,,,,,,,,,25,25
+Binary #16,,n-Heptane,,,iso-Pentane,,,,,,,,,,,,68.4,68.4
+Binary #17,,n-Heptane,,,iso-Pentane,,,,,,,,,,,,50.3,49.5
+Binary #18,,n-Heptane,,,iso-Pentane,,,,,,,,,,,,24.4,24.2
+Binary #19,,,,,iso-Pentane,iso-Octane,,,,,,,,,,,90.8,92.2
+TPRF 44,,n-Heptane,,,,iso-Octane,,,Toluene,,,,,,,,48,46.7
+TPRF 45,,,,,,iso-Octane,,,Toluene,,,,,,,,102,99.5
+TPRF 46,,n-Heptane,,,,iso-Octane,,,Toluene,,,,,,,,58,53.9
+TPRF 47,,,,,,iso-Octane,,,Toluene,,,,,,,,104.1,98.5
+TPRF 48,,,,,,iso-Octane,,,Toluene,,,,,,,,105.6,98.3
+TPRF 49,,n-Heptane,,,,,,,Toluene,,,,,,,,51.4,46
+TPRF 50,,,,,,iso-Octane,,,Toluene,,,,,,,,107.7,97
+TPRF 51,,n-Heptane,,,,,,,Toluene,,,,,,,,65.9,60
+TPRF 52,,n-Heptane,,,,,,,Toluene,,,,,,,,77,68

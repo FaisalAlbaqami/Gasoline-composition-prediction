@@ -1,0 +1,76 @@
+﻿Name,n-N,C_1,n-P,C_6,iso-P,C_2,C_5,C_4,C_3,FACE A gasoline,FACE C gasoline,FACE F gasoline,FACE G gasoline,FACE I gasoline,FACE J gasoline,C_7,RON,MON
+TPRF 19,,n-Heptane,,,,,,,Toluene,,,,,,,,93.4,81.5
+TPRF 20,,n-Heptane,,,,iso-Octane,,,Toluene,,,,,,,,96.9,85.2
+TPRF 21,,n-Heptane,,,,iso-Octane,,,Toluene,,,,,,,,99.8,88.7
+TPRF 22,,n-Heptane,,,,iso-Octane,,,Toluene,,,,,,,,66,64.4
+TPRF 23,,n-Heptane,,,,iso-Octane,,,Toluene,,,,,,,,84.5,82
+TPRF 24,,n-Heptane,,,,iso-Octane,,,Toluene,,,,,,,,73.6,70
+TPRF 25,,n-Heptane,,,,iso-Octane,,,Toluene,,,,,,,,89.1,85.6
+TPRF 26,,n-Heptane,,,,iso-Octane,,,Toluene,,,,,,,,53.2,48
+TPRF 27,,n-Heptane,,,,iso-Octane,,,Toluene,,,,,,,,66.1,61
+TPRF28,,n-Heptane,,,,iso-Octane,,,Toluene,,,,,,,,79,74
+TPRF 29,,n-Heptane,,,,iso-Octane,,,Toluene,,,,,,,,92.8,86.9
+TPRF 30,,n-Heptane,,,,iso-Octane,,,Toluene,,,,,,,,63.7,58
+TPRF 31,,n-Heptane,,,,iso-Octane,,,Toluene,,,,,,,,75.1,68
+TPRF 32,,n-Heptane,,,,iso-Octane,,,Toluene,,,,,,,,86.2,79.6
+TPRF 33,,n-Heptane,,,,iso-Octane,,,Toluene,,,,,,,,96.7,88.7
+TPRF 34,,n-Heptane,,,,iso-Octane,,,Toluene,,,,,,,,75.5,68
+TPRF 35,,n-Heptane,,,,iso-Octane,,,Toluene,,,,,,,,83.8,76.2
+TPRF 36,,n-Heptane,,,,iso-Octane,,,Toluene,,,,,,,,92.1,82.9
+TPRF 37,,n-Heptane,,,,iso-Octane,,,Toluene,,,,,,,,99.8,90.9
+TPRF 38,,n-Heptane,,,,iso-Octane,,,Toluene,,,,,,,,85.3,75.2
+TPRF 39,,n-Heptane,,,,iso-Octane,,,Toluene,,,,,,,,95,83.7
+TPRF 40,,n-Heptane,,,,iso-Octane,,,Toluene,,,,,,,,71.2,69
+TPRF 41,,n-Heptane,,,,iso-Octane,,,Toluene,,,,,,,,68.4,63.7
+TPRF 42,,n-Heptane,,,,iso-Octane,,,Toluene,,,,,,,,90.5,88
+TPRF 43,,n-Heptane,,,,iso-Octane,,,Toluene,,,,,,,,89.5,84.7
+MC 1,,n-Heptane,,1-Hexene,,iso-Octane,,,,,,,,,,,74.6,72
+MC 2,,n-Heptane,,1-Hexene,,iso-Octane,,,Toluene,,,,,,,,72,68
+MC 3,,n-Heptane,,1-Hexene,,iso-Octane,,,Toluene,,,,,,,,72,67.2
+MC 4,,n-Heptane,,1-Hexene,,iso-Octane,,,,,,,,,,,92.9,90.2
+MC 5,,n-Heptane,,1-Hexene,,iso-Octane,,,,,,,,,,,93,88.5
+MC 6,,n-Heptane,,1-Hexene,,iso-Octane,,,Toluene,,,,,,,,91.2,86.8
+MC 7,,n-Heptane,,,,iso-Octane,,"1,2,4-Trimethylbenzene",,,,,,,,,77.8,74.6
+MC 8,,n-Heptane,,1-Hexene,,iso-Octane,,,Toluene,,,,,,,,91.7,85.2
+MC 9,,n-Heptane,,,,iso-Octane,,"1,2,4-Trimethylbenzene",,,,,,,,,83,77.7
+MC 10,,n-Heptane,,1-Hexene,,iso-Octane,,,Toluene,,,,,,,,91.4,84.9
+MC 11,,n-Heptane,,,,iso-Octane,,"1,2,4-Trimethylbenzene",Toluene,,,,,,,,73.5,71.8
+MC 12,,n-Heptane,,1-Hexene,,iso-Octane,,,Toluene,,,,,,,,90.9,82.7
+MC 13,,n-Heptane,,,,iso-Octane,,"1,2,4-Trimethylbenzene",Toluene,,,,,,,,76.7,72
+MC 14,,n-Heptane,,,,iso-Octane,,"1,2,4-Trimethylbenzene",,,,,,,,,94.2,90.5
+MC 15,,n-Heptane,,,,iso-Octane,,"1,2,4-Trimethylbenzene",Toluene,,,,,,,,82.6,76.2
+MC 16,,n-Heptane,,,,iso-Octane,,"1,2,4-Trimethylbenzene",,,,,,,,,96.8,90
+MC 17,,n-Heptane,,,,iso-Octane,,"1,2,4-Trimethylbenzene",Toluene,,,,,,,,93.3,90.1
+MC 18,,n-Heptane,,,,iso-Octane,,"1,2,4-Trimethylbenzene",Toluene,,,,,,,,94.4,88.4
+MC 19,,n-Heptane,,,,iso-Octane,Cyclopentane,,,,,,,,,,74.2,72.6
+MC 20,,n-Heptane,,,,iso-Octane,Cyclopentane,,,,,,,,,,94.1,91.4
+MC 21,,n-Heptane,,,,iso-Octane,Cyclopentane,,,,,,,,,,97.5,90.7
+MC 22,,n-Heptane,,,,iso-Octane,Cyclopentane,,Toluene,,,,,,,,93,88
+MC 23,,n-Heptane,,,,iso-Octane,Cyclopentane,,Toluene,,,,,,,,91.7,85.5
+MC 24,,n-Heptane,,,,iso-Octane,Cyclopentane,,Toluene,,,,,,,,94.5,87.8
+MC 25,,n-Heptane,,,,iso-Octane,Cyclopentane,,Toluene,,,,,,,,92.9,85.3
+MC 26,,n-Heptane,,,,iso-Octane,Cyclopentane,,Toluene,,,,,,,,70.9,66
+FACE A+10,,,,,,,,,,FACE A gasoline,,,,,,Ethanol,92,88
+FACE A+25,,,,,,,,,,FACE A gasoline,,,,,,Ethanol,100.7,92.6
+FACE A+40,,,,,,,,,,FACE A gasoline,,,,,,Ethanol,104.1,91.7
+FACE A+60,,,,,,,,,,FACE A gasoline,,,,,,Ethanol,106,91.3
+FACE C+10,,,,,,,,,,,FACE C gasoline,,,,,Ethanol,92.2,87.1
+FACE C+25,,,,,,,,,,,FACE C gasoline,,,,,Ethanol,100.3,90.5
+FACE C+40,,,,,,,,,,,FACE C gasoline,,,,,Ethanol,104.1,91
+FACE C+60,,,,,,,,,,,FACE C gasoline,,,,,Ethanol,105.8,91.3
+FACE F+10,,,,,,,,,,,,FACE F gasoline,,,,Ethanol,98.9,88.5
+FACE F+25,,,,,,,,,,,,FACE F gasoline,,,,Ethanol,103.2,89.5
+FACE F+40,,,,,,,,,,,,FACE F gasoline,,,,Ethanol,104.7,90.3
+FACE F+60,,,,,,,,,,,,FACE F gasoline,,,,Ethanol,105.7,90.5
+FACE G+10,,,,,,,,,,,,,FACE G gasoline,,,Ethanol,98.8,86.1
+FACE G+25,,,,,,,,,,,,,FACE G gasoline,,,Ethanol,102.4,87.9
+FACE G+40,,,,,,,,,,,,,FACE G gasoline,,,Ethanol,103,88.5
+FACE G+60,,,,,,,,,,,,,FACE G gasoline,,,Ethanol,105,88.9
+FACE I+10,,,,,,,,,,,,,,FACE I gasoline,,Ethanol,79.9,78
+FACE I+25,,,,,,,,,,,,,,FACE I gasoline,,Ethanol,89.8,85.3
+FACE I+40,,,,,,,,,,,,,,FACE I gasoline,,Ethanol,98,88.3
+FACE I+60,,,,,,,,,,,,,,FACE I gasoline,,Ethanol,103.6,89.7
+FACE J+10,,,,,,,,,,,,,,,FACE J gasoline,Ethanol,79,73.6
+FACE J+25,,,,,,,,,,,,,,,FACE J gasoline,Ethanol,89.8,81.7
+FACE J+40,,,,,,,,,,,,,,,FACE J gasoline,Ethanol,98,85.9
+FACE J+60,,,,,,,,,,,,,,,FACE J gasoline,Ethanol,103.6,88.2

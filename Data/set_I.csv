@@ -1,0 +1,70 @@
+﻿Name,n-N,C_1,n-P,C_6,iso-P,C_2,C_5,C_4,C_3,FACE A gasoline,FACE C gasoline,FACE F gasoline,FACE G gasoline,FACE I gasoline,FACE J gasoline,C_7,RON,MON
+PRF+10,,n-Heptane,,,,iso-Octane,,,,,,,,,,Ethanol,55.6,53
+PRF+20,,n-Heptane,,,,iso-Octane,,,,,,,,,,Ethanol,69,64
+PRF+30,,n-Heptane,,,,iso-Octane,,,,,,,,,,Ethanol,80.7,76
+PRF+40,,n-Heptane,,,,iso-Octane,,,,,,,,,,Ethanol,90.5,83.6
+PRF+50,,n-Heptane,,,,iso-Octane,,,,,,,,,,Ethanol,97.9,87.5
+PRF+60,,n-Heptane,,,,iso-Octane,,,,,,,,,,Ethanol,102.5,89
+PRF+70,,n-Heptane,,,,iso-Octane,,,,,,,,,,Ethanol,104.8,89.8
+PRF+80,,n-Heptane,,,,iso-Octane,,,,,,,,,,Ethanol,105.3,90.2
+PRF+90,,n-Heptane,,,,iso-Octane,,,,,,,,,,Ethanol,108.5,91
+TPRF 1+0,,n-Heptane,,,,iso-Octane,,,Toluene,,,,,,,,60.8,58
+TPRF 1+10,,n-Heptane,,,,iso-Octane,,,Toluene,,,,,,,Ethanol,71.9,68
+TPRF 1+20,,n-Heptane,,,,iso-Octane,,,Toluene,,,,,,,Ethanol,82.5,77.7
+TPRF 1+40,,n-Heptane,,,,iso-Octane,,,Toluene,,,,,,,Ethanol,97.8,87.8
+TPRF 1+60,,n-Heptane,,,,iso-Octane,,,Toluene,,,,,,,Ethanol,105.2,88.5
+TPRF 2+0,,n-Heptane,,,,iso-Octane,,,Toluene,,,,,,,,59.5,55.5
+TPRF 2+10,,n-Heptane,,,,iso-Octane,,,Toluene,,,,,,,Ethanol,70.3,65
+TPRF 2+20,,n-Heptane,,,,iso-Octane,,,Toluene,,,,,,,Ethanol,81,75.8
+TPRF 2+40,,n-Heptane,,,,iso-Octane,,,Toluene,,,,,,,Ethanol,96.8,86.6
+TPRF 2+60,,n-Heptane,,,,iso-Octane,,,Toluene,,,,,,,Ethanol,104.4,89.7
+TPRF 3+0,,n-Heptane,,,,iso-Octane,,,Toluene,,,,,,,,57.5,50.7
+TPRF 3+10,,n-Heptane,,,,iso-Octane,,,Toluene,,,,,,,Ethanol,68.7,59.4
+TPRF 3+20,,n-Heptane,,,,iso-Octane,,,Toluene,,,,,,,Ethanol,78.3,70.5
+TPRF 3+40,,n-Heptane,,,,iso-Octane,,,Toluene,,,,,,,Ethanol,94.4,84.3
+TPRF 3+60,,n-Heptane,,,,iso-Octane,,,Toluene,,,,,,,Ethanol,103.4,88.4
+TPRF 4+1,,n-Heptane,,,,iso-Octane,,,,,,,,,,,60.6,60.8
+TPRF 4+2,,n-Heptane,,,,iso-Octane,,,Toluene,,,,,,,,64.3,62.3
+TPRF 4+3,,n-Heptane,,,,iso-Octane,,,Toluene,,,,,,,,67.3,66.1
+TPRF 4+4,,n-Heptane,,,,iso-Octane,,,Toluene,,,,,,,Ethanol,66.6,64
+TPRF 4+5,,n-Heptane,,,,iso-Octane,,,,,,,,,,,70.3,70.4
+TPRF 4+6,,n-Heptane,,,,iso-Octane,,,Toluene,,,,,,,Ethanol,72.2,69
+TPRF 4+7,,n-Heptane,,,,iso-Octane,,,,,,,,,,Ethanol,70.5,68.7
+TPRF 4+8,,n-Heptane,,,,iso-Octane,,,Toluene,,,,,,,,74.2,71.9
+TPRF 4+9,,n-Heptane,,,,iso-Octane,,,,,,,,,,Ethanol,69.7,66.8
+TPRF 4+10,,n-Heptane,,,,iso-Octane,,,Toluene,,,,,,,Ethanol,73.5,69.4
+TPRF 4+11,,n-Heptane,,,,iso-Octane,,,Toluene,,,,,,,Ethanol,71.9,69.4
+TPRF 4+12,,n-Heptane,,,,iso-Octane,,,Toluene,,,,,,,Ethanol,74.9,71.8
+TPRF 4+13,,n-Heptane,,,,iso-Octane,,,Toluene,,,,,,,Ethanol,76.8,74.2
+TPRF 4+14,,n-Heptane,,,,iso-Octane,,,,,,,,,,Ethanol,78.7,76.7
+TPRF 4+15,,n-Heptane,,,,iso-Octane,,,Toluene,,,,,,,Ethanol,81.6,77.2
+TMB+10,,,,,,,,"1,2,4-Trimethylbenzene",,,,,,,,Ethanol,107,102
+TMB+25,,,,,,,,"1,2,4-Trimethylbenzene",,,,,,,,Ethanol,105,95.5
+TMB+40,,,,,,,,"1,2,4-Trimethylbenzene",,,,,,,,Ethanol,104,93.5
+TMB+60,,,,,,,,"1,2,4-Trimethylbenzene",,,,,,,,Ethanol,103.8,91
+CP+10,,,,,,,Cyclopentane,,,,,,,,,Ethanol,101,85.9
+CP+25,,,,,,,Cyclopentane,,,,,,,,,Ethanol,102.3,86.3
+CP+40,,,,,,,Cyclopentane,,,,,,,,,Ethanol,103.3,86.6
+CP+60,,,,,,,Cyclopentane,,,,,,,,,Ethanol,104.8,87.2
+Hex+10,,,,1-Hexene,,,,,,,,,,,,Ethanol,81,68.5
+Hex+25,,,,1-Hexene,,,,,,,,,,,,Ethanol,89.2,74.5
+Hex+40,,,,1-Hexene,,,,,,,,,,,,Ethanol,96.5,79.5
+Hex+60,,,,1-Hexene,,,,,,,,,,,,Ethanol,101.7,84
+TPRF 1,,n-Heptane,,,,,,,Toluene,,,,,,,,92.3,80.7
+TPRF 2,,n-Heptane,,,,iso-Octane,,,Toluene,,,,,,,,93.7,90.3
+TPRF 3,,n-Heptane,,,,iso-Octane,,,Toluene,,,,,,,,93,85.8
+TPRF 4,,n-Heptane,,,,iso-Octane,,,Toluene,,,,,,,,93,86.7
+TPRF 5,,n-Heptane,,,,,,,Toluene,,,,,,,,97.7,86.2
+TPRF 6,,n-Heptane,,,,iso-Octane,,,Toluene,,,,,,,,95.2,90.5
+TPRF 7,,n-Heptane,,,,iso-Octane,,,Toluene,,,,,,,,96.3,87.3
+TPRF 8,,n-Heptane,,,,iso-Octane,,,Toluene,,,,,,,,86.6,84.2
+TPRF 9,,n-Heptane,,,,iso-Octane,,,Toluene,,,,,,,,85.7,84.6
+TPRF 10,,n-Heptane,,,,iso-Octane,,,Toluene,,,,,,,,96.3,88.3
+TPRF 11,,n-Heptane,,,,iso-Octane,,,Toluene,,,,,,,,98,87.4
+TPRF 12,,n-Heptane,,,,iso-Octane,,,Toluene,,,,,,,,39,37
+TPRF 13,,n-Heptane,,,,iso-Octane,,,Toluene,,,,,,,,87,84
+TPRF 14,,n-Heptane,,,,,,,Toluene,,,,,,,,65.9,57.7
+TPRF 15,,n-Heptane,,,,iso-Octane,,,Toluene,,,,,,,,76.2,70.9
+TPRF 16,,n-Heptane,,,,,,,Toluene,,,,,,,,75.6,66.9
+TPRF 17,,n-Heptane,,,,,,,Toluene,,,,,,,,85.2,74.8
+TPRF 18,,n-Heptane,,,,,,,Toluene,,,,,,,,89.3,78.2
