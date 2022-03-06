@@ -10,21 +10,15 @@ Please refer to the paper for a much more detailed description of the methodolog
 ## Overview of files
 
 #### `data/`
-* `set_I.csv`: 
-* `set_II.csv`: 
-* `set_III.csv`: 
-* `set_IIII.csv`: 
-* `fuel_properties.csv`: fuel properties used to convert the inputted fuel composition to its chemical characteristics
+* `set_I.csv`, `set_II.csv`, `set_III.csv`, `set_IIII.csv`: four data sets that together comprise the entire set. They were split up to facilitate computation. Memory issues were faced when running the scripts over the union. 
+* `fuel_properties.csv`: fuel properties used to convert the inputted fuel composition to its chemical characteristics.
 
 #### `models/`: 
 * `ron/ron_model.h5`: ANN model for the prediction of Rsearch Octane Number (RON) in [Predicting Octane Number Using Nuclear Magnetic Resonance Spectroscopy and Artificial Neural Networks](https://pubs.acs.org/doi/abs/10.1021/acs.energyfuels.8b00556)
 * `mon/mon_model.h5`: ANN model for the prediction of Motor Octane Number (MON) developed in the same work as above.
 
 #### `results/`
-* `results_I.csv`:
-* `results_II.csv`:
-* `results_III.csv`:
-* `results_IIII.csv`:
+* `results_I.csv`, `results_II.csv`, `results_III.csv`, `results_IIII.csv`: the results obtained from the respective data sets. 
 
 #### `scripts/`
 * `GeneticAlgorithm.py`: contains the script for both GA and the polygonal algorithms. The script creates multiple recipes and select the optimum fuel that meets the desired criteria
